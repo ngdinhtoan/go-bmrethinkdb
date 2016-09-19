@@ -2,6 +2,8 @@
 
 NOTE: this is the very first project that I use Docker
 
+[![](https://images.microbadger.com/badges/image/toannguyen/go-bmrethinkdb.svg)](https://microbadger.com/images/toannguyen/go-bmrethinkdb)
+
 ## How to run benchmark
 
 ### Build docker image for bm-rethinkdb
